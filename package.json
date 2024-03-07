@@ -1,18 +1,21 @@
 {
   "name": "arts-dao",
-  "version": "1.1.3",
-  "description": "",
+  "version": "1.1.4",
+  "description": "just dao things",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artknight404/arts-dao"
+    "url": "https://github.com/artknight404/arts-dao"
   },
   "keywords": [
     "next-js"
   ],
   "author": "artknight404",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "yunnie-dao": "^1.1.6"
+  }
 }
