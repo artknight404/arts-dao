@@ -1,8 +1,8 @@
 {
   "name": "arts-dao",
-  "version": "1.1.4",
-  "description": "just dao things",
-  "main": "index.js",
+  "version": "1.1.5",
+  "description": "library for arts-dao",
+  "main": "libs/arts-dao.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,13 @@
     "url": "https://github.com/artknight404/arts-dao"
   },
   "keywords": [
-    "next-js"
+    "dao",
+    "crypto",
+    "blockchain",
+    "web3",
+    "ethereum",
+    "solidity",
+    "smart-contracts"
   ],
   "author": "artknight404",
   "license": "ISC",
